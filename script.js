@@ -1,3 +1,4 @@
 function contactMe() {
-  alert("Thanks for reaching out! You can email me at notyet@pingpong.com");
+  alert("Thanks for reaching out! You can email me at official.aryannaik@gmail.com");
 }
+

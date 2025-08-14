@@ -34,7 +34,7 @@ header p {
 .about, .projects {
   padding: 40px 20px;
   text-align: center;
-  background-color: transparent;
+  background-color: #ffffff;
 }
 
 /* Project cards */
@@ -81,4 +81,5 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 

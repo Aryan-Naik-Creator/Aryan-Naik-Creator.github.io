@@ -31,7 +31,7 @@ header p {
 }
 
 /* About and project sections */
-.about, .projects {
+.about, .projects,.video-section {
   padding: 40px 20px;
   text-align: center;
   background-color: #ffffff;
@@ -48,7 +48,7 @@ header p {
 }
 
 /* Headings inside sections */
-.about h2, .projects h2 {
+.about h2, .projects h2,.video-section h2 {
   font-size: 2em;
   color: #1e90ff;
   margin-bottom: 20px;
@@ -81,5 +81,6 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
